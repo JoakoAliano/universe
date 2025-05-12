@@ -1,7 +1,5 @@
 # universe
 
-CREATE DATABASE universe;
-\c universe
 
 
 CREATE TABLE galaxy (
